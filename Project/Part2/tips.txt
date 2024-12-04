@@ -1,0 +1,11 @@
+Device agnostic code
+
+epochs determined by loss: when loss on training and test start to diverge it means that we are starting to overfit
+
+Foto dall'interno probabilmente rovinano performance
+
+Images need to have same size
+
+Channel first for pytorch tensors
+
+evaluation and ensemble slide
